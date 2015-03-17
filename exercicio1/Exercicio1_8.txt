@@ -1,0 +1,2 @@
+a) ponto e vírgula no final da primeira linha deve ser retirado para corrigir o programa
+b) na primeira linha => deve ser trocado por >=
