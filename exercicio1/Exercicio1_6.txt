@@ -1,0 +1,1 @@
+Nos três exercicios o único de resultado divergente foi o de número 3, pois a divisão teve resultado 0, enquanto nos outros teve 0.75, além de todas as respostas (dos exercicios 4 e 5) terem ao menos uma casa decimal
