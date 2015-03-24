@@ -1,0 +1,7 @@
+TAD -- é a abstração dados encapsulados, podendo somente ser manipulados por suas determinadas operações.
+
+Classe -- é um tipo de TAD.
+
+Objeto -- é a "vida" da classe, sua materialização.
+
+Mensagens -- é a chamada entre dois objetos, ou seja, sua comunicação.
