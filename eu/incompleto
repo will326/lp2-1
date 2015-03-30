@@ -1,0 +1,87 @@
+import java.util.Scanner;
+public class Exercicio {
+    
+       
+    
+    public static void main(String[] args) {
+        int cpf[] = new int[11];
+        int peso[] = new int[11];
+        int mult[] = new int[11];
+        int i, j, soma=0;
+        String cpfs;
+        int x = 0,y = 0;
+        int p = 2;
+        
+        
+       // Inserindo Valores para a STRING cpfs
+            Scanner input = new Scanner ( System.in);
+            System.out.println( "Digite os -- 9 ( NOVE ) -- primeiros digitos do seu CPF : ");
+                cpfs = input.next();
+                
+                if (cpfs.length() !=9){
+                    System.out.println( "Digite os -- 9 ( NOVE ) -- primeiros digitos do seu CPF : ");
+                        cpfs = input.next();
+                }
+                
+              
+       // Convertendo String para VETOR cpf []
+            for ( i=0; i<9; i++){
+                cpf[i] = Character.getNumericValue(cpfs.charAt(i));
+                System.out.println("Vetor " + i +" : "+ cpf[i]);
+            }
+            
+            
+        // peso
+            for ( i = 0; i <=8; i++){
+                peso[i] = p;
+                p++;
+                System.out.println("Peso " + i +" : "+ peso[i]);
+        }
+           
+        // Multiplicando vetores
+           
+            for ( i = 0; i <=8; i++){
+                mult [i] = peso[i] * cpf[i];
+                System.out.println("Mult " + i +" : "+ mult[i]);
+            }
+                
+        // Somando vetorees da multiplicaçao 
+                
+            for ( i = 0; i <=8; i++){
+            soma += mult[i];
+            System.out.println("Soma " + soma);
+            }
+        // Condiçoes de x
+                if ((soma % 11)<2){
+                 x = 0;
+                 System.out.println("X " + x);
+                }
+             
+             else {
+                 x = ( (soma % 11) - 11) ;
+                 System.out.println("X " + x);
+             }
+                
+               
+                 
+
+                
+            
+            
+        
+                 
+            
+ 
+            
+          
+             
+		
+        
+        
+    
+    }
+    
+}
+
+    
+     
