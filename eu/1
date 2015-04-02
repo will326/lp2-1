@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>Curso Técnico de Informática</title>
+	</head>
+	<body>
+		<h1>CEFET - Campus VIII - Varginha - Curso Técnico de Informática - 3o Ano</h1>
+		<ul>
+			<li><a href="inicio.html">Início</a></li>
+			<li><a href="curso.html">Curso</a></li>
+			<li><a href="FAQ.html">FAQ</a></li>
+			<li><a href="contato.html">Contato</a></li>
+		</ul>
+		<p>A Unidade Descentralizada de Varginha, no Sul de Minas, criada em 2006, é uma das vinte e cinco novas unidades criadas no Plano de Expansão da Rede Federal de Educação Tecnológica do Ministério da Educação (MEC).<br><br>	No campos VIII, o CEFET-MG oferece os cursos de Edificações, na modalidade Educação de Jovens e Adultos (EJA), Informática e Mecatrônica, na modalidade Integrado.</p>		
+		<h2>O Técnico em informática</h2>
+		<p>Desenvolve programas de computador, seguindo as especificações e paradigmas da lógica de programação e das linguagens de programação. Utiliza ambientes de desenvolvimento de sistemas,sistemas operacionais e banco de dados. Realiza testes de programas de computador, mantendo registros que possibilitem análises e refinamento dos resultados. Executa manutenção de programas de computadores implantados.</p>
+		<p>POSIBILIDADE DE TEMAS A SEREM ABORDADOS NA FORMAÇÃO</p>
+		<ol>
+			<li>1.Lógica e linguagens de programação</li>
+			<li>2.Sistemas operacionais</li>	
+			<li>3.Hardware</li>	
+			<li>4.Interpretação de especificações de sistemas computacionais</li>
+			<li>5.Banco de dados</li>
+		</ol>
+	</body>
+</html>
