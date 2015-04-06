@@ -8,10 +8,7 @@
 	</head>
 
 	<body>
-		<header>
-			<h1 id="1">CEFET - Campus VIII - Varginha - Curso</h1><h1>Técnico de Informática - 3o Ano</h1>			
-		</header>
-		<nav>
+		<h1 id="1">CEFET - Campus VIII - Varginha - Curso</h1><h1>Técnico de Informática - 3o Ano</h1>			
 			<ul>	
 				<li><a href="inicio.html">Início</a></li>
 				<li><a href="curso.html">Curso</a></li>
@@ -24,7 +21,7 @@
 				<li><a href="#c">Pergunta 3 ?</a></li>
 				<li><a href="#d">Pergunta 4 ?</a></li>		
 			</ol>
-		</nav>
+
 		<h4 id="a">Pergunta 1 ?</h4>
 		<h4><a href="#1">Voltar</a></h4>
 		
