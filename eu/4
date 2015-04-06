@@ -21,17 +21,19 @@
 				<label for="email">Email:</label>
 				<input type="text" name="email" id="email" placeholder="jose@jose.com.br">
 				
-				<input type="radio" name="sexo" value="M" id="masculino"> <label for="masculino">Masculino</label>
+				<input type="radio" name="sexo" value="M" id="masculino"> <label for="masculino">Masculino</label>>
 				<input type="radio" name="sexo" value="F" id="feminino"> <label for="feminino">Feminino</label>
 				
-				Telefone <select name = "telefone">
+				Telefone <select name = "tel">
+				<option>031</option>
+				<option>035</option>
 				</select>
-				<input type="text" name="telefone" id="telefone" maxlength="9">
+				<input type="text" name="tel" >
 				<label for="arquivo">Selecione o arquivo: </label>
 				<input type="file" name="arquivo">
 				<label for="sugestao">Sugestão: </label>
-				<textarea name="sugestao" id="sugestao" cols="70" rows="5"></textarea>
-				<input type="image" src="Submit.jpeg" alt="submit" width="60" height="60">
+				<textarea name="sugestao"  rows="5" cols="68" ></textarea>
+				<input type="image" src="Submit.jpeg" alt="submit" width="70" height="70">
 			</fieldset>
 		</form>
 	</body>
