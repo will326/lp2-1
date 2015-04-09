@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>Curso Técnico de Informática</title>
+		<img src"ela.jpeg" alt="">
+	</head>
+	<body>
+		<h1>CEFET - Campus VIII - Varginha - Curso Técnico de Informática - 3o Ano</h1>
+		<ul>
+			<li><a href="inicio.html">Início</a></li>
+			<li><a href="curso.html">Curso</a></li>
+			<li><a href="contato.html">Contato</a></li>
+		</ul>
+		<br>
+		
+		<p>	O estágio é uma etapa importante de sua formação educacional e profissional. É uma oportunidade única para <br> 
+			colocar em prática os conhecimentos adquiridos na escola e ter contato com o ambiente de trabalho ampliando a sua <br> 
+			visão de mundo e possibilitando o seu crescimento pessoal.O estágio no CEFET-MG é uma disciplina conhecida como <br> 
+			Estágio Obrigatório Profissional (EOP) sendo obrigatória para a conclusão e recebimento do diploma de técnico de <br> 
+			nível médio. Deve ser supervisionado, tanto pela escola quanto pela empresa e todas as dificuldades encontradas <br> 
+			no exercício das atividades de estágio devem ser relatadas aos supervisores e orientadores de estágio, para que <br> 
+			possam ser contornadas.</p>
+		
+		<p>	Um estágio feito com responsabilidade pelo aluno, no mais das vezes, abre as portas para a sua contratação pela <br> 
+			empresa. Portanto, dedicação, iniciativa e compromisso são essenciais por parte do estagiário. Por outro lado, é <br> 
+			importante observar o nível de compromisso da empresa com o aspecto educacional. Empresas  que utilizam estagiários <br> 
+			como mão de obra barata e que além de não oferecer oportunidades de aprendizagem ainda não exercem qualquer tipo <br>  
+			de supervisão ao trabalho do estagiário não são parceiras desejáveis para o CEFET-MG no processo de acompanhamento <br>  
+			de estágio. Nessa situação informe ao seu professor orientador.</p>
+		
+		
+	</body>
+</html>
